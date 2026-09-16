@@ -9,7 +9,6 @@ certbot/certbot
 grafana/loki:latest
 grafana/grafana:latest
 grafana/promtail:latest
-minio/minio
 grafana/alloy
 mingrammer/flog
 crazymax/fail2ban:latest
@@ -18,8 +17,8 @@ prom/alertmanager:latest
 easytier/easytier:latest
 ghcr.io/nextcloud-releases/all-in-one:latest
 ghcr.io/nextcloud-releases/aio-domaincheck:latest
+ghcr.io/nextcloud-releases/aio-onlyoffice:latest
+nextcloud/aio-collabora:latest
 containrrr/watchtower
 caddy:alpine
-nextcloud/aio-collabora:latest
-ghcr.io/nextcloud-releases/aio-onlyoffice:latest
 ghcr.io/openclaw/openclaw
